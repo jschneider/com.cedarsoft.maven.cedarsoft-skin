@@ -9,13 +9,14 @@
 
   <groupId>eu.cedarsoft.maven</groupId>
   <artifactId>cedarsoft-skin</artifactId>
-  <version>1.0</version>
+  <version>1.0-SNAPSHOT</version>
   <name>Cedarsoft Maven Skin</name>
   <description>Cedarsoft Maven Skin</description>
 
 
   <scm>
-    <connection>scm:svn:https://svn.cedarsoft.eu/open/eu.cedarsoft/tags/cedarsoft-skin-1.0</connection>
-    <developerConnection>scm:svn:https://svn.cedarsoft.eu/open/eu.cedarsoft/tags/cedarsoft-skin-1.0</developerConnection>
+    <connection>https://svn.cedarsoft.eu/projects/eu.cedarsoft.maven.cedarsoft-skin/trunk/</connection>
+    <developerConnection>https://svn.cedarsoft.eu/projects/eu.cedarsoft.maven.cedarsoft-skin/trunk/</developerConnection>
   </scm>
+
 </project>
