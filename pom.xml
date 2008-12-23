@@ -1,22 +1,22 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>eu</groupId>
+    <groupId>com</groupId>
     <artifactId>cedarsoft</artifactId>
-    <version>1.0</version>
+    <version>1.0.0</version>
   </parent>
 
-  <groupId>eu.cedarsoft.maven</groupId>
+  <groupId>com.cedarsoft.maven</groupId>
   <artifactId>cedarsoft-skin</artifactId>
-  <version>1.1-SNAPSHOT</version>
-  <name>Cedarsoft Maven Skin</name>
-  <description>Cedarsoft Maven Skin</description>
-
+  <version>1.1.0-SNAPSHOT</version>
+  <name>cedarsoft Maven Skin</name>
+  <description>cedarsoft Maven Skin</description>
 
   <scm>
-    <connection>scm:svn:https://svn.cedarsoft.eu/projects/eu.cedarsoft.maven.cedarsoft-skin/trunk/</connection>
-    <developerConnection>scm:svn:https://svn.cedarsoft.eu/projects/eu.cedarsoft.maven.cedarsoft-skin/trunk/</developerConnection>
+    <connection>scm:git:git://git.cedarsoft.com/com.cedarsoft.maven.cedarsoft-skin</connection>
+    <developerConnection>scm:git:ssh://git.cedarsoft.com/home/git/com.cedarsoft.maven.cedarsoft-skin
+    </developerConnection>
   </scm>
-
 </project>
