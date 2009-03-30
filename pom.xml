@@ -2,9 +2,9 @@
 
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>com</groupId>
-    <artifactId>cedarsoft</artifactId>
-    <version>1.0.6</version>
+    <groupId>com.cedarsoft</groupId>
+    <artifactId>open</artifactId>
+    <version>1.0.8</version>
   </parent>
 
   <groupId>com.cedarsoft.maven</groupId>
