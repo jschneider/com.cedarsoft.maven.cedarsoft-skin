@@ -41,22 +41,22 @@ a:active, a:hover {
 }
 
 #legend li.externalLink {
-  background: url( ../images/external.png ) left top no-repeat;
+  background: url(../images/external.png) left top no-repeat;
   padding-left: 18px;
 }
 
 a.externalLink, a.externalLink:link, a.externalLink:visited, a.externalLink:active, a.externalLink:hover {
-  background: url( ../images/external.png ) right center no-repeat;
+  background: url(../images/external.png) right center no-repeat;
   padding-right: 18px;
 }
 
 #legend li.newWindow {
-  background: url( ../images/newwindow.png ) left top no-repeat;
+  background: url(../images/newwindow.png) left top no-repeat;
   padding-left: 18px;
 }
 
 a.newWindow, a.newWindow:link, a.newWindow:visited, a.newWindow:active, a.newWindow:hover {
-  background: url( ../images/newwindow.png ) right center no-repeat;
+  background: url(../images/newwindow.png) right center no-repeat;
   padding-right: 18px;
 }
 
@@ -78,10 +78,10 @@ h3 {
 }
 
 h3 a:active,
-  h3 a:hover,
-  h3 a:link,
-  h3 a:visited,
-  h3 a {
+h3 a:hover,
+h3 a:link,
+h3 a:visited,
+h3 a {
   color: white;
 }
 
@@ -93,7 +93,7 @@ p {
 
 #breadcrumbs {
   height: 13px;
-  background-image: url( ../images/breadcrumbs.jpg );
+  background-image: url(../images/breadcrumbs.jpg);
   padding: 5px 10px 14px 20px;
 }
 
@@ -122,7 +122,7 @@ p {
   padding-top: 2px;
   padding-left: 9px;
   color: #297198;
-  background-image: url( ../images/h5.jpg );
+  background-image: url(../images/h5.jpg);
   background-repeat: no-repeat;
   background-position: left bottom;
 }
@@ -157,7 +157,7 @@ dt {
   background-color: #ccc;
   font-weight: bold;
   font-size: 14px;
-  background-image: url( ../images/h3.jpg );
+  background-image: url(../images/h3.jpg);
   background-repeat: no-repeat;
   background-position: left bottom;
 }
@@ -183,13 +183,13 @@ table {
 
 #banner {
   height: 93px;
-  background: url( ../images/banner.jpg );
+  background: url(../images/banner.jpg);
   background-position: top;
   background-repeat: repeat-x;
 }
 
 #banner #bannerLeft {
-  background-image: url( "../images/cedarsoft.jpg" );
+  background-image: url("../images/cedarsoft.jpg");
   background-position: top left;
   background-repeat: no-repeat;
 }
@@ -229,22 +229,29 @@ table {
 }
 
 .errormark, .warningmark, .donemark, .infomark {
-  background: url( ../images/icon_error_sml.gif ) no-repeat;
+  background: url(../images/icon_error_sml.gif) no-repeat;
 }
 
 .warningmark {
-  background-image: url( ../images/icon_warning_sml.gif );
+  background-image: url(../images/icon_warning_sml.gif);
 }
 
 .donemark {
-  background-image: url( ../images/icon_success_sml.gif );
+  background-image: url(../images/icon_success_sml.gif);
 }
 
 .infomark {
-  background-image: url( ../images/icon_info_sml.gif );
+  background-image: url(../images/icon_info_sml.gif);
 }
 
 #lastPublished {
   font-style: italic;
   color: lightgray;
+}
+
+.xleft {
+  text-shadow: 1px 1px 1px #bbbbbb !important
+}
+.xright {
+  text-shadow: 1px 1px 1px #bbbbbb !important
 }
