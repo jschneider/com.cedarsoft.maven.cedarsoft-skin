@@ -1,0 +1,130 @@
+/* Javadoc style sheet */
+/* Define colors, fonts and other style attributes here to override the defaults  */
+body {
+  background-color: white;
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  font-size: 13px;
+}
+
+
+a:link,
+  a:visited {
+  color: #666666;
+  text-decoration: none;
+}
+
+a:active, a:hover {
+  color: #297198;
+  text-decoration: underline;
+}
+
+a:link.selfref, a:visited.selfref {
+  color: #555 !important;
+}
+
+ul, li {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+
+table {
+  border-collapse: collapse;
+  border-color: #CFD8E2;
+  width:100%;
+}
+
+td {
+  padding: 3px;
+  border-width: 1px;
+  border-color: #CFD8E2;
+}
+
+.a td {
+  background: #ddd;
+  color: #000;
+}
+
+
+div.overview {
+    background-color:#ddd;
+    padding: 4px 4px 4px 0;
+}
+div.overview li, div.framenoframe li {
+    display: inline;
+}
+div.framenoframe {
+    text-align: center;
+    font-size: x-small;
+}
+div.framenoframe li {
+    margin: 0 3px 0 3px;
+}
+div.overview li {
+    margin:3px 3px 0 3px;
+    padding: 4px;
+}
+li.selected {
+    background-color:#888;
+    color: #fff;
+    font-weight: bold;
+}
+
+table.summary {
+    margin-bottom: 20px;
+}
+table.summary td, table.summary th {
+    font-weight: bold;
+    text-align: left;
+    padding: 3px;
+}
+table.summary th {
+    background-color:#036;
+    color: #fff;
+}
+table.summary td {
+    background-color:#eee;
+    border: 1px solid black;
+}
+
+em {
+    color: #A00;
+}
+em.comment {
+    color: #390;
+}
+.string {
+    color: #009;
+}
+div#footer {
+    text-align:center;
+}
+#overview {
+    padding:2px;
+}
+
+hr {
+    height: 1px;
+    color: #000;
+}
+
+/* JXR style sheet */
+.jxr_comment
+{
+    color: #390;
+}
+
+.jxr_javadoccomment
+{
+    color: #A00;
+}
+
+.jxr_string
+{
+    color: #009;
+}
+
+.jxr_keyword
+{
+    color: #000;
+}
