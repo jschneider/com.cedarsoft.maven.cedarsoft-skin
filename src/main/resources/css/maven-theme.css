@@ -36,7 +36,7 @@ body {
   margin-right: auto;
   background-repeat: repeat-y;
   font-size: 13px;
-  padding: 0;
+  padding: 0px;
 }
 
 td, select, input, li {
@@ -177,6 +177,10 @@ table.bodyTable tr.b {
   background-color: #eee;
 }
 
+table.bodyTable tr.a:hover, table.bodyTable tr.b:hover {
+  background: #dfe3db;
+}
+
 .source {
   border: 1px solid #999;
   overflow: auto
@@ -239,7 +243,7 @@ table {
 
 #intro {
   border: solid #ccc 1px;
-  margin: 6px 0 0 0;
+  margin: 6px 0px 0px 0px;
   padding: 10px 40px 10px 40px;
 }
 
@@ -254,7 +258,7 @@ table {
 
 #footer {
   padding: 10px;
-  margin: 20px 0 20px 0;
+  margin: 20px 0px 20px 0px;
   border-top: solid #ccc 1px;
   color: #333333;
 }
