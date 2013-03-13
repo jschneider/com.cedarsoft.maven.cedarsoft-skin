@@ -14,8 +14,9 @@
   <description>cedarsoft Maven Skin</description>
 
   <scm>
-    <connection>scm:git:git://git.cedarsoft.com/com.cedarsoft.maven.cedarsoft-skin</connection>
-    <developerConnection>scm:git:ssh://git.cedarsoft.com/home/git/com.cedarsoft.maven.cedarsoft-skin
-    </developerConnection>
+    <connection>scm:git:git://github.com/jschneider/com.cedarsoft.maven.cedarsoft-skin.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com:jschneider/com.cedarsoft.maven.cedarsoft-skin.git</developerConnection>
+    <tag>HEAD</tag>
   </scm>
+
 </project>
