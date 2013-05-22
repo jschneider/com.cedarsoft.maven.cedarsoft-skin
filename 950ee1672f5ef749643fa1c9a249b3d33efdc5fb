@@ -1,11 +1,11 @@
 {
   "built_on": "master",
-  "duration": 20.31,
-  "full_display_name": "com.cedarsoft.maven.cedarsoft-skin #47",
-  "id": "2013-05-21_18-41-40",
-  "number": 47,
+  "duration": 632.028,
+  "full_display_name": "com.cedarsoft.serialization #57",
+  "id": "2013-05-22_02-29-11",
+  "number": 57,
   "result": "SUCCESS",
   "status_message": "?",
-  "time": "2013-05-21 18:41:40 +0200",
-  "url": "job/com.cedarsoft.maven.cedarsoft-skin/47/"
+  "time": "2013-05-22 02:29:11 +0200",
+  "url": "job/com.cedarsoft.serialization/57/"
 }
