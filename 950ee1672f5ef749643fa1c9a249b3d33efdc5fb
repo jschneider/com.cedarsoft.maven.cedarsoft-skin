@@ -1,11 +1,11 @@
 {
   "built_on": "master",
-  "duration": 30.664,
-  "full_display_name": "com.cedarsoft.maven.cedarsoft-skin #76",
-  "id": "2013-06-16_02-39-11",
-  "number": 76,
+  "duration": 36.742,
+  "full_display_name": "com.cedarsoft.maven.cedarsoft-skin #77",
+  "id": "2013-06-17_02-39-11",
+  "number": 77,
   "result": "SUCCESS",
   "status_message": "?",
-  "time": "2013-06-16 02:39:11 +0200",
-  "url": "job/com.cedarsoft.maven.cedarsoft-skin/76/"
+  "time": "2013-06-17 02:39:11 +0200",
+  "url": "job/com.cedarsoft.maven.cedarsoft-skin/77/"
 }
