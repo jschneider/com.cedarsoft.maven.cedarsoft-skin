@@ -225,9 +225,15 @@ table {
 }
 
 #banner #bannerLeft {
-  background-image: url("../images/cedarsoft.jpg");
   background-position: top left;
   background-repeat: no-repeat;
+}
+
+#bannerLeft img {
+  margin: 15px;
+}
+#bannerRight img {
+  margin: 15px;
 }
 
 #navcolumn ul {
