@@ -4,12 +4,12 @@
   <parent>
     <groupId>com.cedarsoft</groupId>
     <artifactId>open</artifactId>
-    <version>57</version>
+    <version>68</version>
   </parent>
 
   <groupId>com.cedarsoft.maven</groupId>
   <artifactId>cedarsoft-skin</artifactId>
-  <version>1.1.9</version>
+  <version>2.0.0</version>
   <name>cedarsoft Maven Skin</name>
   <description>cedarsoft Maven Skin</description>
 
